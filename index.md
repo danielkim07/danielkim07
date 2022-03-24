@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 다니엘스튜디오 홈체이지
 
 You can use the [editor on GitHub](https://github.com/danielkim07/danielkim07/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
