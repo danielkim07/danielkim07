@@ -1,6 +1,7 @@
 # 다니엘 - danielkim07
 ------------------------
 ## introduce me
+- 🏠 I'm living in Seoul(South Korea)
 - 🔭 I’m currently working on minecraft command
 - 🌱 I’m currently learning C#
 - 🤔 I’m looking for help with WPF..
