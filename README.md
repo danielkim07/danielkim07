@@ -1,14 +1,11 @@
 ### 다니엘 - danielkim07
 
-- 🔭 I’m currently working on <img h
-src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/7/76/Impulse_Command_Block.gif/revision/latest?cb=20191017044126" alt="minecraft command" width="40" height="40"/>
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on minecraft command
+- 🌱 I’m currently learning C#
+- 🤔 I’m looking for help with WPF..
+- 📫 How to reach me: ~~spoon0727@dnlstudio.com~~, spoon0727@kakao.com
+
+My YouTube - [@spoon0727](https://youtube.com/@spoon0727)
 
 <!--
 **danielkim07/danielkim07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
